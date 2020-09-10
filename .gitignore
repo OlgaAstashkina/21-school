@@ -1,5 +1,6 @@
-# Ignore files
+# Ignore dir or files
 .DS_Store
+tmp
 
 # Prerequisites
 *.d
